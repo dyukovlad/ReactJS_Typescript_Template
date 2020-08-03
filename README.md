@@ -1,3 +1,5 @@
+#Project template [Configuring a ReactJS Typescript project with .editorconfig, Eslint e Prettier](https://dev.to/aryclenio/configuring-a-reactjs-typescript-project-with-editorconfig-eslint-e-prettier-3g5g)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
